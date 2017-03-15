@@ -45,12 +45,12 @@ class FormCreate extends Component {
 
             <form onSubmit={this.handleCreate.bind(this)}>
                 <h4>Name of Game</h4>
-                <input type="text" placeholder="Battlefield 1" ref="NameInput" required="required"/>
+                <input type="text" placeholder="Battlefield 1" ref="name" name="name" id="name" required="required"/>
                <br/>
                 <h4>Review</h4>
                 <textarea
                     className='add__comment' defaultValue=''
-                    placeholder='Good Game, Great Graphics' ref='text' required="required">
+                    placeholder='Good Game, Great Graphics' ref='review' name="review" id="review" required="required">
       	        </textarea>
                 <h4>Price of Game</h4>
                 <input type="number" min="1" placeholder="50.99"  step="any" name="price" id="price" required="required" />
@@ -79,18 +79,42 @@ class FormCreate extends Component {
 
 
                 <br/>
-                <button>ADD REVIEW</button>
+                <button onClick={this.onBtnClickHandler} >ADD REVIEW</button>
                 {this.renderError()}
             </form>
         );
     }
 
+    onBtnClickHandler(e) {
+    e.preventDefault();
+        var name = this.refs.name.value;
+        var review = this.refs.review.value;
+        var price = this.refs.price.value;
+        var age = age.value;
+        var platform = platform.value;
+
+
+    var item = [{
+        name: name,
+        review: review,
+        price: price,
+        age: age,
+        platform: platform,
+    }];
+    window.ee.emit('Review.add', item);
+
+    this.setState({textIsEmpty: true});
+}
+
+
+
+
     handleCreate(event) {
         event.preventDefault();
 
-        const NameInput = this.refs.NameInput;
-        const task = NameInput.value;
-        const validateInput = this.validateInput(task);
+        const NameInput = this.refs.name;
+        const name = NameInput.value;
+        const validateInput = this.validateInput(name);
 
         if (validateInput) {
             this.setState({ error: validateInput });
@@ -98,14 +122,14 @@ class FormCreate extends Component {
         }
 
         this.setState({ error: null });
-        this.props.createTask(task);
+        this.props.createTask(name);
         this.refs.NameInput.value = '';
     }
 
-    validateInput(task) {
-        if (!task) {
+    validateInput(name) {
+        if (!name) {
             return 'Please make sure something is entered for all items.';
-        } else if (_.find(this.props.gameReviews, gameReview => gameReview.task === task)) {
+        } else if (_.find(this.props.gameReviews, gameReview => gameReview.name === name)) {
             return 'Review already exists.';
         } else {
             return null;

@@ -9,6 +9,9 @@ body{
   width: 20%;
   height: 25%;
   background-color: white;
+  margin: 20px;
+  border: 3px solid darkgreen;
+  border-radius: 10px;
 }
 .App-logo {
   height: 80px;
