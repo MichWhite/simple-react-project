@@ -2,17 +2,59 @@
   text-align: center;
 }
 body{
+  max-width: 100%;
+  overflow-x: hidden;
+
   background-color: mediumseagreen;
 }
 
-.container{
-  width: 20%;
-  height: 25%;
+td
+{
+  width:600px;
+  text-align:center;
+  vertical-align:middle;
+
+}
+
+.reviewForm{
+  height: 200px;
+  width: 400px;
+  margin: 50px;
   background-color: white;
-  margin: 20px;
   border: 3px solid darkgreen;
   border-radius: 10px;
 }
+
+.about{
+  height: 200px;
+  width: 400px;
+  margin: 50px;
+  background-color: white;
+  border: 3px solid darkgreen;
+  border-radius: 10px;
+}
+
+#nameData{
+border-top:3px solid darkgreen;
+}
+
+#AHH{
+  border: 3px solid darkgreen;
+  alignment: center;
+  background-color: white;
+  margin: 50px;
+  border-radius: 10px;
+  overflow:hidden;
+  width: auto;
+  max-height:1000px;
+
+  display:block;
+  text-align: center;
+  vertical-align:middle;
+
+}
+
+
 .App-logo {
   height: 80px;
 }

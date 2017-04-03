@@ -54,9 +54,6 @@ class FormCreate extends Component {
       	        </textarea>
                 <h4>Price of Game</h4>
                 <input type="number" min="1" placeholder="50.99"  step="any" name="price" id="price" required="required" />
-             {/*<input type="number" min="0" max="10000" step="1" value=""/>*/}
-
-
 
                 <h4>Age Rating</h4>
                 <select value={this.state.value} onChange={this.handleChange}>
@@ -79,7 +76,7 @@ class FormCreate extends Component {
 
 
                 <br/>
-                <button onClick={this.onBtnClickHandler} >ADD REVIEW</button>
+                <button>ADD REVIEW</button>
                 {this.renderError()}
             </form>
         );
@@ -90,8 +87,8 @@ class FormCreate extends Component {
         var name = this.refs.name.value;
         var review = this.refs.review.value;
         var price = this.refs.price.value;
-        var age = age.value;
-        var platform = platform.value;
+        var age = this.refs.age.value;
+        var platform = this.refs.platform.value;
 
 
     var item = [{
@@ -107,34 +104,6 @@ class FormCreate extends Component {
 }
 
 
-
-
-    handleCreate(event) {
-        event.preventDefault();
-
-        const NameInput = this.refs.name;
-        const name = NameInput.value;
-        const validateInput = this.validateInput(name);
-
-        if (validateInput) {
-            this.setState({ error: validateInput });
-            return;
-        }
-
-        this.setState({ error: null });
-        this.props.createTask(name);
-        this.refs.NameInput.value = '';
-    }
-
-    validateInput(name) {
-        if (!name) {
-            return 'Please make sure something is entered for all items.';
-        } else if (_.find(this.props.gameReviews, gameReview => gameReview.name === name)) {
-            return 'Review already exists.';
-        } else {
-            return null;
-        }
-    }
 }
 
 export default FormCreate;
