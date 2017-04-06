@@ -9,6 +9,7 @@ import './App.css';
 import buttons from './config/buttonsConfig';
 import api from './test/stubAPI.js'
 import './App.css'
+import { Link } from 'react-router';
 
 
 var About = React.createClass({
@@ -17,12 +18,14 @@ var About = React.createClass({
 
         return (
             <div className="App">
-                <div className="about col-md-12">
+                <div className="about row">
                     <h1> About </h1>
-                This site is for game lovers and people interested in
-                    game reviews. Head over to the Review Page to Leave a
-                     review and dont be afraid to say what you really think.
-            </div>
+               <p> This site is for game lovers and people interested in
+                    game reviews. Head over to the <Link to={'/'}> Review Page</Link>
+                     to Leave a review and say what you really think. On the review page add
+                   the Title, Review, Age, Platform and Price.
+               </p>
+                </div>
             </div>
 
         );

@@ -11,7 +11,7 @@ var reviews = [
         "name": "Mario Bros",
         "review": "Classic",
         "price": "20.99",
-        "age": "3",
+        "age": 3,
         "platform": "WII"
     },
 
@@ -20,7 +20,7 @@ var reviews = [
         "name": "Metal Gear Solid",
         "review": "Good Story Great Graphics",
         "price": "35.99",
-        "age": "16",
+        "age": 16,
         "platform": "PS4"
     },
 
@@ -29,7 +29,7 @@ var reviews = [
         "name": "Assisains Creed 3",
         "review": "Boring but good Story",
         "price": "45.99",
-        "age": "16",
+        "age": 16,
         "platform": "PC"
     },
 
@@ -38,14 +38,14 @@ var reviews = [
         "name": "GTA V",
         "review": "Brilliant Game",
         "price": "55.99",
-        "age": "18",
+        "age": 18,
         "platform": "XBOX ONE"
     },
     {   'id': 5,
         'name': 'Battlefield 1',
         'review': 'Good Game Multiplayer is amazing, great Graphics',
         'price': '57.90',
-        'age': '16',
+        'age': 16,
         'platform': 'PLAYSTATION 4'
     },
     {
@@ -53,7 +53,7 @@ var reviews = [
         'name': 'Forza 4',
         'review': 'Slow game not customizable',
         'price': '39.90',
-        'age': '3',
+        'age': 3,
         'platform': 'XBOX ONE'
     },
     {
@@ -61,7 +61,7 @@ var reviews = [
         'name': 'Call of Duty 2',
         'review': 'GREAT STORY and multiplayer',
         'price': '27.90',
-        'age': '18',
+        'age': 18,
         'platform': 'PC'
     },
     {
@@ -69,7 +69,7 @@ var reviews = [
         'name': 'Super Mario',
         'review': 'Great Game No Multiplayer but good Story',
         'price': '27.90',
-        'age': '7',
+        'age': 7,
         'platform': 'WII'
     }
 ] ;

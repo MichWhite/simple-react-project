@@ -216,7 +216,7 @@ console.log(this.state.id);
             var rightButtonHandler = this.handleDelete ;
 
             var fields = [
-                <tr ><td key={'name'} >{this.props.reviewItem.name}</td> </tr>,
+                <tr ><h3><td key={'name'} >{this.props.reviewItem.name}</td> </h3></tr>,
 
                 <tr > <td key={'review'}>{this.props.reviewItem.review}</td> </tr>,
 
