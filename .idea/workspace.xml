@@ -2,6 +2,1230 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c6d83b2-283b-4b78-97de-e8668da88ebf" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/0471c5de565ed25f7819343ceb8be92fe6625438.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/09120c960c0edaa3b159d81f6c6cb187a723969f.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/094dfe0ca6799b2a4cf540be4c0313574891105c.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/0bb8f3cb6a30a450adf9975d9c508af1bb5e28fc.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/1a70bce40bd509342978697dddff09144faea287.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2687c1a2e4cd462821227ad62f93ede7165b446e.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/2e5510c93a6c2465ee57e94c24034a42403dde42.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/302eaa2ac64dbb0277f8f797e72f1186a450b961.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/31e81f02cb344b7db676cf68528369fd899b3abc.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/3b309de157f27a2cc8f0ed446ca5678175121713.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/3b32416570b655c8dd548c9b5aa20a8f1afeb7ae.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/3c9b16f75d1086d0f63a5b4545f2014124ae6dda.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/465e4bb8eb42f670f8aa84ff4873628e5af3d478.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/46b6a452c765d539f32d083f5a85aebda8127675.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/46c2f978618804cdfe72b5cc787797ec23e60e3b.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/4ac16d69bfe4243a943aaadb2b487114adc9ac5e.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/53c4c2216e4b3469fe5be35f0ef25d0894ecffc1.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/6f9d14f78506a72b08a313563b021fd8e80acd85.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/7a1b89c21e2e5309d306bf9b7db3122d0d4a04f8.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/7cecef2e959158dd8bc86c720002efa877ba3b6f.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/7db7ef71193a50fa3b362d89210acedac5a7e819.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/7e8adfbaa292ba6ca74148f4f70917ced2068911.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/805be838373d1813cb7455450f105ed856280fd2.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/93708ed818adba201d6d8065e7a21021ff2c01d9.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/976d4991ad1d8d360a9ab081f5b4d4188db68be7.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/977edffadd9dc7dffc073a0a1e05ec705b3d8800.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/98f194484f134a3b92db9d5920a1fc53466835c0.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/9989f9ca9e463ee752eeee40201a089a578476c1.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a1b1671ca45d0f2872e0b157f2fcbd273566c4f9.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/ad5d225867278446a41c2a2c0fabdbbb9eff19b1.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/b9322ac042411bbc5f8d530832ef350cffe53299.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/bc3c6e138d5da2a65ca9b7b5568dddf5584840d8.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c0b395eeb8b96b71ec9f8471e7f0a3f66101ad53.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c4eb563ad70549bd419368135c8176c5141f8873.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c909f7900833dbcee3fb144cd67ce0837db88c0b.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/cb37428b084e27beca63dd22e47179696e1802b9.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d2a292df76ca2774646b8a1bf188eec2e1492df2.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/d75476931eae248486d6bf2ca4316818187fb115.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/eed5d1c4c11da3dc5392da7c44062d271d772331.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/f20a39467dfc934fa9b8ba1c4d3ff796c56be29f.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/f57eb25d7105a7a76487717350cc787dd1817b2b.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/.cache/babel-loader/f94a292e826873c4dce72473a8866206b5610a29.json.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/bowser/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/bowser/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/bowser/.idea/bowser.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/bowser/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/bowser/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/bowser/.idea/markdown-navigator.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/bowser/.idea/markdown-navigator/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/bowser/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/bowser/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/bowser/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/bowser/.idea/watcherTasks.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/bowser/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/bowser/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/bowser/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/bowser/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/bowser/ISSUE_TEMPLATE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/bowser/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/bowser/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/bowser/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/bowser/bowser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/bowser/bowser.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/bowser/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/bowser/src/bowser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/bowser/test/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/bowser/typings.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/hyphenate-style-name/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/hyphenate-style-name/.nyc_output/900e064d9219b09c1c1b62dc2f53b452.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/hyphenate-style-name/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/hyphenate-style-name/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/hyphenate-style-name/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/hyphenate-style-name/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/hyphenate-style-name/yarn.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/Changelog.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/dist/inline-style-prefix-all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/dist/inline-style-prefix-all.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/dist/inline-style-prefix-all.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/dist/inline-style-prefixer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/dist/inline-style-prefixer.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/dist/inline-style-prefixer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/lib/Prefixer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/lib/plugins/calc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/lib/plugins/flex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/lib/plugins/flexboxIE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/lib/plugins/flexboxOld.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/lib/plugins/grabCursor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/lib/plugins/gradient.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/lib/plugins/position.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/lib/plugins/sizing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/lib/plugins/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/lib/plugins/zoomCursor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/lib/prefixProps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/lib/static/plugins/calc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/lib/static/plugins/cursor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/lib/static/plugins/flex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/lib/static/plugins/flexboxIE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/lib/static/plugins/flexboxOld.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/lib/static/plugins/gradient.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/lib/static/plugins/position.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/lib/static/plugins/sizing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/lib/static/plugins/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/lib/static/prefixAll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/lib/static/prefixProps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/lib/utils/capitalizeString.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/lib/utils/getBrowserInformation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/lib/utils/getPrefixedKeyframes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/lib/utils/getPrefixedValue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/lib/utils/isPrefixedProperty.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/lib/utils/isPrefixedValue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/lib/utils/joinPrefixedValue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/lib/utils/sortPrefixedStyle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/lib/utils/unprefixProperty.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/inline-style-prefixer/static.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash.merge/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash.merge/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash.merge/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash.merge/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash.throttle/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash.throttle/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash.throttle/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/lodash.throttle/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/AutoComplete/AutoComplete.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/AutoComplete/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/BottomNavigation/BottomNavigationItem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/Card/CardExpandable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/Card/CardText.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/Card/CardTitle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/CircularProgress/CircularProgress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/CircularProgress/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/DatePicker/Calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/DatePicker/CalendarActionButtons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/DatePicker/CalendarMonth.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/DatePicker/CalendarToolbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/DatePicker/CalendarYear.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/DatePicker/DateDisplay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/DatePicker/DatePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/DatePicker/DatePickerDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/DatePicker/DayButton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/DatePicker/YearButton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/DatePicker/dateUtils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/DatePicker/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/DropDownMenu/DropDownMenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/DropDownMenu/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/FlatButton/FlatButton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/FlatButton/FlatButtonLabel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/FlatButton/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/FloatingActionButton/FloatingActionButton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/FloatingActionButton/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/FontIcon/FontIcon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/FontIcon/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/GridList/GridList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/GridList/GridTile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/GridList/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/IconMenu/IconMenu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/IconMenu/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/LinearProgress/LinearProgress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/LinearProgress/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/List/NestedList.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/List/makeSelectable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/Menu/menuUtils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/MenuItem/MenuItem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/MenuItem/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/Popover/Popover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/Popover/PopoverAnimationDefault.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/Popover/PopoverAnimationVertical.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/Popover/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/RadioButton/RadioButton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/RadioButton/RadioButtonGroup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/RadioButton/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/RaisedButton/RaisedButton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/RaisedButton/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/RefreshIndicator/RefreshIndicator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/RefreshIndicator/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/SelectField/SelectField.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/SelectField/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/Slider/Slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/Slider/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/Snackbar/Snackbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/Snackbar/SnackbarBody.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/Snackbar/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/Stepper/Step.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/Stepper/StepButton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/Stepper/StepConnector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/Stepper/StepContent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/Stepper/StepLabel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/Stepper/Stepper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/Stepper/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/Subheader/Subheader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/Subheader/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/Table/TableFooter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/Table/TableHeader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/Table/TableHeaderColumn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/Table/TableRowColumn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/Tabs/InkBar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/Tabs/TabTemplate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/TextField/EnhancedTextarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/TextField/TextFieldHint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/TextField/TextFieldUnderline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/TimePicker/Clock.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/TimePicker/ClockHours.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/TimePicker/ClockMinutes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/TimePicker/ClockNumber.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/TimePicker/ClockPointer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/TimePicker/TimeDisplay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/TimePicker/TimePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/TimePicker/TimePickerDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/TimePicker/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/TimePicker/timeUtils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/Toggle/Toggle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/Toggle/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/Toolbar/ToolbarGroup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/Toolbar/ToolbarSeparator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/Toolbar/ToolbarTitle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/internal/AppCanvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/internal/AutoLockScrolling.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/internal/BeforeAfterWrapper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/internal/CircleRipple.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/internal/ClearFix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/internal/ClickAwayListener.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/internal/EnhancedButton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/internal/EnhancedSwitch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/internal/ExpandTransition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/internal/ExpandTransitionChild.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/internal/FocusRipple.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/internal/Overlay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/internal/RenderToLayer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/internal/ScaleIn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/internal/ScaleInChild.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/internal/SlideIn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/internal/SlideInChild.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/internal/Tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/internal/TouchRipple.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/styles/baseThemes/darkBaseTheme.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/styles/baseThemes/lightBaseTheme.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/styles/getMuiTheme.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/styles/muiThemeable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/accessibility.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/accessible.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/account-balance-wallet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/account-balance.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/account-box.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/account-circle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/add-shopping-cart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/alarm-add.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/alarm-off.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/alarm-on.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/alarm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/all-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/android.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/announcement.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/aspect-ratio.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/assessment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/assignment-ind.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/assignment-late.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/assignment-return.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/assignment-returned.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/assignment-turned-in.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/assignment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/autorenew.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/backup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/book.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/bookmark-border.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/bookmark.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/bug-report.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/build.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/cached.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/camera-enhance.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/card-giftcard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/card-membership.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/card-travel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/change-history.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/check-circle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/chrome-reader-mode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/class.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/code.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/compare-arrows.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/copyright.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/credit-card.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/dashboard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/date-range.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/delete-forever.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/delete.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/description.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/dns.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/done-all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/done.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/donut-large.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/donut-small.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/eject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/euro-symbol.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/event-seat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/event.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/exit-to-app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/explore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/extension.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/face.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/favorite-border.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/favorite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/feedback.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/find-in-page.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/find-replace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/fingerprint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/flight-land.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/flight-takeoff.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/flip-to-back.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/flip-to-front.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/g-translate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/gavel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/get-app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/gif.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/grade.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/group-work.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/help-outline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/help.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/highlight-off.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/history.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/home.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/hourglass-empty.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/hourglass-full.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/http.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/https.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/important-devices.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/info-outline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/info.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/input.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/invert-colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/label-outline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/label.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/language.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/launch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/lightbulb-outline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/line-style.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/line-weight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/lock-open.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/lock-outline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/lock.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/loyalty.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/markunread-mailbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/motorcycle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/note-add.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/offline-pin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/opacity.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/open-in-browser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/open-in-new.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/open-with.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/pageview.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/pan-tool.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/payment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/perm-camera-mic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/perm-contact-calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/perm-data-setting.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/perm-device-information.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/perm-identity.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/perm-media.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/perm-phone-msg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/perm-scan-wifi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/pets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/picture-in-picture-alt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/picture-in-picture.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/play-for-work.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/polymer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/power-settings-new.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/pregnant-woman.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/print.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/query-builder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/question-answer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/receipt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/record-voice-over.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/redeem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/remove-shopping-cart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/reorder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/report-problem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/restore-page.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/restore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/room.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/rounded-corner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/rowing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/schedule.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/settings-applications.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/settings-backup-restore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/settings-bluetooth.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/settings-brightness.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/settings-cell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/settings-ethernet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/settings-input-antenna.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/settings-input-component.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/settings-input-composite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/settings-input-hdmi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/settings-input-svideo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/settings-overscan.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/settings-phone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/settings-power.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/settings-remote.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/settings-voice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/settings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/shop-two.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/shop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/shopping-basket.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/shopping-cart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/speaker-notes-off.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/speaker-notes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/spellcheck.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/stars.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/store.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/subject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/supervisor-account.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/swap-horiz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/swap-vert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/swap-vertical-circle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/system-update-alt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/tab-unselected.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/theaters.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/three-d-rotation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/thumb-down.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/thumb-up.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/thumbs-up-down.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/timeline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/toc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/today.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/toll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/touch-app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/track-changes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/translate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/trending-down.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/trending-flat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/trending-up.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/turned-in-not.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/turned-in.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/update.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/verified-user.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/view-agenda.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/view-array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/view-carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/view-column.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/view-day.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/view-headline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/view-list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/view-module.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/view-quilt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/view-stream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/view-week.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/visibility-off.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/visibility.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/watch-later.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/work.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/youtube-searched-for.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/zoom-in.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/action/zoom-out.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/alert/add-alert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/alert/error-outline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/alert/error.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/alert/warning.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/add-to-queue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/airplay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/album.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/art-track.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/av-timer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/branding-watermark.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/call-to-action.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/closed-caption.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/equalizer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/explicit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/fast-forward.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/fast-rewind.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/featured-play-list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/featured-video.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/fiber-dvr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/fiber-manual-record.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/fiber-new.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/fiber-pin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/fiber-smart-record.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/forward-10.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/forward-30.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/forward-5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/games.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/hd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/hearing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/high-quality.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/library-add.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/library-books.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/library-music.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/loop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/mic-none.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/mic-off.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/mic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/movie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/music-video.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/new-releases.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/not-interested.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/note.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/pause-circle-filled.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/pause-circle-outline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/pause.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/play-arrow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/play-circle-filled.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/play-circle-outline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/playlist-add-check.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/playlist-add.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/playlist-play.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/queue-music.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/queue-play-next.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/queue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/radio.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/recent-actors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/remove-from-queue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/repeat-one.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/repeat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/replay-10.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/replay-30.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/replay-5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/replay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/shuffle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/skip-next.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/skip-previous.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/slow-motion-video.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/snooze.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/sort-by-alpha.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/stop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/subscriptions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/subtitles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/surround-sound.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/video-call.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/video-label.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/video-library.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/videocam-off.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/videocam.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/volume-down.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/volume-mute.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/volume-off.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/volume-up.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/web-asset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/av/web.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/business.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/call-end.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/call-made.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/call-merge.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/call-missed-outgoing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/call-missed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/call-received.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/call-split.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/call.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/chat-bubble-outline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/chat-bubble.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/chat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/clear-all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/comment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/contact-mail.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/contact-phone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/contacts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/dialer-sip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/dialpad.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/email.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/forum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/import-contacts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/import-export.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/invert-colors-off.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/live-help.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/location-off.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/location-on.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/mail-outline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/message.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/no-sim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/phone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/phonelink-erase.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/phonelink-lock.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/phonelink-ring.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/phonelink-setup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/portable-wifi-off.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/present-to-all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/ring-volume.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/rss-feed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/screen-share.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/speaker-phone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/stay-current-landscape.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/stay-current-portrait.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/stay-primary-landscape.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/stay-primary-portrait.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/stop-screen-share.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/swap-calls.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/textsms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/voicemail.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/communication/vpn-key.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/add-box.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/add-circle-outline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/add-circle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/add.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/archive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/backspace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/block.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/clear.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/content-copy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/content-cut.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/content-paste.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/create.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/delete-sweep.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/drafts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/filter-list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/flag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/font-download.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/forward.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/gesture.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/inbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/link.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/low-priority.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/mail.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/markunread.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/move-to-inbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/next-week.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/redo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/remove-circle-outline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/remove-circle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/remove.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/reply-all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/reply.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/report.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/save.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/select-all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/send.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/sort.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/text-format.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/unarchive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/undo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/content/weekend.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/access-alarm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/access-alarms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/access-time.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/add-alarm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/airplanemode-active.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/airplanemode-inactive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/battery-20.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/battery-30.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/battery-50.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/battery-60.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/battery-80.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/battery-90.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/battery-alert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/battery-charging-20.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/battery-charging-30.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/battery-charging-50.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/battery-charging-60.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/battery-charging-80.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/battery-charging-90.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/battery-charging-full.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/battery-full.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/battery-std.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/battery-unknown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/bluetooth-connected.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/bluetooth-disabled.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/bluetooth-searching.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/bluetooth.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/brightness-auto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/brightness-high.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/brightness-low.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/brightness-medium.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/data-usage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/developer-mode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/devices.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/dvr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/gps-fixed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/gps-not-fixed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/gps-off.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/graphic-eq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/location-disabled.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/location-searching.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/network-cell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/network-wifi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/nfc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/screen-lock-landscape.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/screen-lock-portrait.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/screen-lock-rotation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/screen-rotation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/sd-storage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/settings-system-daydream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/signal-cellular-0-bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/signal-cellular-1-bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/signal-cellular-2-bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/signal-cellular-3-bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/signal-cellular-4-bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/signal-cellular-connected-no-internet-0-bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/signal-cellular-connected-no-internet-1-bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/signal-cellular-connected-no-internet-2-bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/signal-cellular-connected-no-internet-3-bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/signal-cellular-connected-no-internet-4-bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/signal-cellular-no-sim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/signal-cellular-null.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/signal-cellular-off.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/signal-wifi-0-bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/signal-wifi-1-bar-lock.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/signal-wifi-1-bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/signal-wifi-2-bar-lock.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/signal-wifi-2-bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/signal-wifi-3-bar-lock.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/signal-wifi-3-bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/signal-wifi-4-bar-lock.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/signal-wifi-4-bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/signal-wifi-off.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/storage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/usb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/wallpaper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/widgets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/wifi-lock.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/device/wifi-tethering.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/attach-file.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/attach-money.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/border-all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/border-bottom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/border-clear.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/border-color.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/border-horizontal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/border-inner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/border-left.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/border-outer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/border-right.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/border-style.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/border-top.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/border-vertical.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/bubble-chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/drag-handle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/format-align-center.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/format-align-justify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/format-align-left.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/format-align-right.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/format-bold.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/format-clear.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/format-color-fill.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/format-color-reset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/format-color-text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/format-indent-decrease.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/format-indent-increase.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/format-italic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/format-line-spacing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/format-list-bulleted.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/format-list-numbered.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/format-paint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/format-quote.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/format-shapes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/format-size.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/format-strikethrough.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/format-textdirection-l-to-r.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/format-textdirection-r-to-l.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/format-underlined.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/functions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/highlight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/insert-chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/insert-comment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/insert-drive-file.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/insert-emoticon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/insert-invitation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/insert-link.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/insert-photo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/linear-scale.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/merge-type.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/mode-comment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/mode-edit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/monetization-on.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/money-off.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/multiline-chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/pie-chart-outlined.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/pie-chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/publish.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/short-text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/show-chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/space-bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/strikethrough-s.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/text-fields.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/title.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/vertical-align-bottom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/vertical-align-center.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/vertical-align-top.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/editor/wrap-text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/file/attachment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/file/cloud-circle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/file/cloud-done.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/file/cloud-download.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/file/cloud-off.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/file/cloud-queue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/file/cloud-upload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/file/cloud.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/file/create-new-folder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/file/file-download.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/file/file-upload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/file/folder-open.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/file/folder-shared.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/file/folder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/cast-connected.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/cast.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/computer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/desktop-mac.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/desktop-windows.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/developer-board.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/device-hub.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/devices-other.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/dock.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/gamepad.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/headset-mic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/headset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/keyboard-arrow-down.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/keyboard-arrow-left.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/keyboard-arrow-right.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/keyboard-arrow-up.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/keyboard-backspace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/keyboard-capslock.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/keyboard-hide.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/keyboard-return.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/keyboard-tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/keyboard-voice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/keyboard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/laptop-chromebook.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/laptop-mac.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/laptop-windows.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/laptop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/memory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/mouse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/phone-android.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/phone-iphone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/phonelink-off.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/phonelink.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/power-input.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/router.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/scanner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/security.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/sim-card.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/smartphone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/speaker-group.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/speaker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/tablet-android.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/tablet-mac.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/tablet.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/toys.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/tv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/videogame-asset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/hardware/watch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/add-a-photo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/add-to-photos.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/adjust.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/assistant-photo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/assistant.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/audiotrack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/blur-circular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/blur-linear.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/blur-off.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/blur-on.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/brightness-1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/brightness-2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/brightness-3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/brightness-4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/brightness-5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/brightness-6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/brightness-7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/broken-image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/brush.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/burst-mode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/camera-alt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/camera-front.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/camera-rear.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/camera-roll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/camera.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/center-focus-strong.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/center-focus-weak.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/collections-bookmark.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/collections.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/color-lens.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/colorize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/compare.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/control-point-duplicate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/control-point.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/crop-16-9.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/crop-3-2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/crop-5-4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/crop-7-5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/crop-din.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/crop-free.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/crop-landscape.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/crop-original.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/crop-portrait.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/crop-rotate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/crop-square.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/crop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/dehaze.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/details.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/edit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/exposure-neg-1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/exposure-neg-2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/exposure-plus-1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/exposure-plus-2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/exposure-zero.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/exposure.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/filter-1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/filter-2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/filter-3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/filter-4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/filter-5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/filter-6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/filter-7.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/filter-8.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/filter-9-plus.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/filter-9.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/filter-b-and-w.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/filter-center-focus.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/filter-drama.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/filter-frames.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/filter-hdr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/filter-none.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/filter-tilt-shift.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/filter-vintage.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/flare.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/flash-auto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/flash-off.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/flash-on.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/flip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/gradient.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/grain.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/grid-off.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/grid-on.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/hdr-off.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/hdr-on.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/hdr-strong.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/hdr-weak.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/healing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/image-aspect-ratio.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/iso.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/landscape.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/leak-add.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/leak-remove.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/lens.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/linked-camera.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/looks-3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/looks-4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/looks-5.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/looks-6.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/looks-one.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/looks-two.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/looks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/loupe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/monochrome-photos.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/movie-creation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/movie-filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/music-note.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/nature-people.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/nature.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/navigate-before.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/navigate-next.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/palette.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/panorama-fish-eye.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/panorama-horizontal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/panorama-vertical.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/panorama-wide-angle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/panorama.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/photo-album.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/photo-camera.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/photo-filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/photo-library.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/photo-size-select-actual.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/photo-size-select-large.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/photo-size-select-small.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/photo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/picture-as-pdf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/portrait.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/remove-red-eye.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/rotate-90-degrees-ccw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/rotate-left.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/rotate-right.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/slideshow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/straighten.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/style.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/switch-camera.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/switch-video.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/tag-faces.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/texture.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/timelapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/timer-10.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/timer-3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/timer-off.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/timer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/tonality.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/transform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/tune.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/view-comfy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/view-compact.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/vignette.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/wb-auto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/wb-cloudy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/wb-incandescent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/wb-iridescent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/image/wb-sunny.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/index.es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/add-location.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/beenhere.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/directions-bike.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/directions-boat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/directions-bus.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/directions-car.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/directions-railway.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/directions-run.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/directions-subway.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/directions-transit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/directions-walk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/directions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/edit-location.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/ev-station.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/flight.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/hotel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/layers-clear.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/layers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/local-activity.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/local-airport.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/local-atm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/local-bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/local-cafe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/local-car-wash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/local-convenience-store.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/local-dining.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/local-drink.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/local-florist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/local-gas-station.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/local-grocery-store.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/local-hospital.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/local-hotel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/local-laundry-service.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/local-library.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/local-mall.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/local-movies.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/local-offer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/local-parking.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/local-pharmacy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/local-phone.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/local-pizza.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/local-play.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/local-post-office.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/local-printshop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/local-see.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/local-shipping.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/local-taxi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/my-location.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/navigation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/near-me.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/person-pin-circle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/person-pin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/pin-drop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/place.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/rate-review.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/restaurant-menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/restaurant.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/satellite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/store-mall-directory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/streetview.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/subway.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/terrain.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/traffic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/train.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/tram.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/transfer-within-a-station.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/maps/zoom-out-map.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/navigation-arrow-drop-right.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/navigation/apps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/navigation/arrow-back.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/navigation/arrow-downward.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/navigation/arrow-drop-down-circle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/navigation/arrow-drop-down.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/navigation/arrow-drop-up.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/navigation/arrow-forward.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/navigation/arrow-upward.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/navigation/cancel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/navigation/check.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/navigation/chevron-left.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/navigation/chevron-right.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/navigation/close.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/navigation/expand-less.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/navigation/expand-more.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/navigation/first-page.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/navigation/fullscreen-exit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/navigation/fullscreen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/navigation/last-page.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/navigation/menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/navigation/more-horiz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/navigation/more-vert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/navigation/refresh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/navigation/subdirectory-arrow-left.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/navigation/subdirectory-arrow-right.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/navigation/unfold-less.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/navigation/unfold-more.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/adb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/airline-seat-flat-angled.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/airline-seat-flat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/airline-seat-individual-suite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/airline-seat-legroom-extra.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/airline-seat-legroom-normal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/airline-seat-legroom-reduced.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/airline-seat-recline-extra.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/airline-seat-recline-normal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/bluetooth-audio.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/confirmation-number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/disc-full.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/do-not-disturb-alt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/do-not-disturb-off.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/do-not-disturb-on.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/do-not-disturb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/drive-eta.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/enhanced-encryption.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/event-available.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/event-busy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/event-note.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/folder-special.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/live-tv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/mms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/more.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/network-check.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/network-locked.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/no-encryption.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/ondemand-video.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/personal-video.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/phone-bluetooth-speaker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/phone-forwarded.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/phone-in-talk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/phone-locked.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/phone-missed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/phone-paused.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/power.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/priority-high.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/rv-hookup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/sd-card.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/sim-card-alert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/sms-failed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/sms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/sync-disabled.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/sync-problem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/sync.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/system-update.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/tap-and-play.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/time-to-leave.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/vibration.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/voice-chat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/vpn-lock.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/wc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/notification/wifi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/places/ac-unit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/places/airport-shuttle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/places/all-inclusive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/places/beach-access.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/places/business-center.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/places/casino.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/places/child-care.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/places/child-friendly.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/places/fitness-center.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/places/free-breakfast.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/places/golf-course.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/places/hot-tub.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/places/kitchen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/places/pool.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/places/room-service.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/places/rv-hookup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/places/smoke-free.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/places/smoking-rooms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/places/spa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/social/cake.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/social/domain.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/social/group-add.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/social/group.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/social/location-city.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/social/mood-bad.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/social/mood.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/social/notifications-active.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/social/notifications-none.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/social/notifications-off.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/social/notifications-paused.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/social/notifications.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/social/pages.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/social/party-mode.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/social/people-outline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/social/people.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/social/person-add.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/social/person-outline.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/social/person.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/social/plus-one.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/social/poll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/social/public.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/social/school.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/social/sentiment-dissatisfied.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/social/sentiment-neutral.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/social/sentiment-satisfied.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/social/sentiment-very-dissatisfied.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/social/sentiment-very-satisfied.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/social/share.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/social/whatshot.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/toggle/check-box-outline-blank.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/toggle/check-box.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/toggle/indeterminate-check-box.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/toggle/radio-button-checked.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/toggle/radio-button-unchecked.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/toggle/star-border.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/toggle/star-half.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/svg-icons/toggle/star.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/utils/autoPrefix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/utils/autoprefixer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/utils/callOnce.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/utils/childUtils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/utils/colorManipulator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/utils/deprecatedExport.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/utils/deprecatedPropType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/utils/dom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/utils/events.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/utils/iOSHelpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/utils/propTypes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/material-ui/utils/rtl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-addons-create-fragment/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-addons-create-fragment/PATENTS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-addons-create-fragment/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-addons-create-fragment/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/react-addons-create-fragment/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/simple-assign/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/simple-assign/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/simple-assign/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node_modules/simple-assign/package.json" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/contact.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/login.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sign-up.js" />
@@ -507,7 +1731,7 @@
       <file leaf-file-name="App.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
+            <state relative-caret-position="792">
               <caret line="36" column="30" lean-forward="false" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
               <folding />
             </state>
@@ -517,7 +1741,7 @@
       <file leaf-file-name="contact.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/contact.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
+            <state relative-caret-position="594">
               <caret line="31" column="14" lean-forward="false" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
               <folding>
                 <element signature="e#45#89#0" expanded="false" />
@@ -527,11 +1751,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="59" selection-end-column="2" />
+            <state relative-caret-position="396">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding>
                 <element signature="e#0#58#0" expanded="true" />
               </folding>
@@ -542,7 +1766,7 @@
       <file leaf-file-name="sign-up.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sign-up.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1232">
+            <state relative-caret-position="1320">
               <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
               <folding>
                 <element signature="e#45#86#0" expanded="true" />
@@ -554,7 +1778,7 @@
       <file leaf-file-name="login.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/login.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="704">
+            <state relative-caret-position="792">
               <caret line="38" column="18" lean-forward="false" selection-start-line="38" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
               <folding>
                 <element signature="e#45#86#0" expanded="true" />
@@ -563,13 +1787,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3537">
-              <caret line="255" column="44" lean-forward="false" selection-start-line="255" selection-start-column="44" selection-end-line="255" selection-end-column="44" />
+            <state relative-caret-position="291">
+              <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
               <folding>
                 <element signature="e#14#37#0" expanded="true" />
+                <marker date="1491325295781" expanded="true" signature="11547:12079" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -578,11 +1803,9 @@
       <file leaf-file-name="stubAPI.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/stubAPI.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
+            <state relative-caret-position="0">
               <caret line="2" column="3" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -671,13 +1894,13 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/home.js" />
         <option value="$PROJECT_DIR$/src/test/stubAPI.js" />
-        <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/about.js" />
         <option value="$PROJECT_DIR$/src/App.css" />
         <option value="$PROJECT_DIR$/src/sign-up.js" />
         <option value="$PROJECT_DIR$/src/login.js" />
         <option value="$PROJECT_DIR$/src/contact.js" />
         <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/App.js" />
       </list>
     </option>
   </component>
@@ -695,7 +1918,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="146" />
     <option name="y" value="54" />
-    <option name="width" value="1445" />
+    <option name="width" value="1495" />
     <option name="height" value="932" />
   </component>
   <component name="ProjectView">
@@ -713,7 +1936,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -774,7 +1997,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -875,33 +2098,35 @@
       <workItem from="1489685232278" duration="2246000" />
       <workItem from="1490199839640" duration="107965000" />
       <workItem from="1491316395541" duration="247000" />
+      <workItem from="1491322252674" duration="2063000" />
+      <workItem from="1491324708014" duration="1960000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="160337000" />
+    <option name="totallyTimeSpent" value="164360000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="146" y="54" width="1445" height="932" extended-state="0" />
+    <frame x="146" y="54" width="1495" height="932" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14438885" sideWeight="0.4960452" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13940649" sideWeight="0.4960452" order="3" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17970401" sideWeight="0.5039548" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3767927" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3767927" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976827" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -942,6 +2167,7 @@
           <caret line="21" column="12" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
           <folding>
             <element signature="e#14#37#0" expanded="true" />
+            <marker date="1491325295781" expanded="true" signature="11547:12079" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -971,6 +2197,7 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#14#37#0" expanded="true" />
+            <marker date="1491325295781" expanded="true" signature="11547:12079" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -1034,6 +2261,7 @@
           <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
             <element signature="e#14#37#0" expanded="true" />
+            <marker date="1491325295781" expanded="true" signature="11547:12079" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -1149,11 +2377,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/stubAPI.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
+        <state relative-caret-position="0">
           <caret line="2" column="3" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1166,7 +2392,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/login.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
+        <state relative-caret-position="792">
           <caret line="38" column="18" lean-forward="false" selection-start-line="38" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
           <folding>
             <element signature="e#45#86#0" expanded="true" />
@@ -1176,7 +2402,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sign-up.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1232">
+        <state relative-caret-position="1320">
           <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
           <folding>
             <element signature="e#45#86#0" expanded="true" />
@@ -1193,7 +2419,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/contact.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
+        <state relative-caret-position="594">
           <caret line="31" column="14" lean-forward="false" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
           <folding>
             <element signature="e#45#89#0" expanded="false" />
@@ -1202,19 +2428,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3537">
-          <caret line="255" column="44" lean-forward="false" selection-start-line="255" selection-start-column="44" selection-end-line="255" selection-end-column="44" />
-          <folding>
-            <element signature="e#14#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/App.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
+        <state relative-caret-position="792">
           <caret line="36" column="30" lean-forward="false" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
           <folding />
         </state>
@@ -1222,10 +2438,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="59" selection-end-column="2" />
+        <state relative-caret-position="396">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
             <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <element signature="e#14#37#0" expanded="true" />
+            <marker date="1491325295781" expanded="true" signature="11547:12079" ph="{...}" />
           </folding>
         </state>
       </provider>

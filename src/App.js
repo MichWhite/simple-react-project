@@ -6,6 +6,17 @@ import './App.css';
 import buttons from './config/buttonsConfig';
 import api from './test/stubAPI.js'
 
+// var mongoose = require('mongoose');
+//
+// mongoose.connect('mongodb://admin:admin@ds151070.mlab.com:51070/game-review');
+//
+// mongoose.find(function (err, game) {
+//     if (err) {
+//         res.status(500).send(err)
+//     } else {
+//         res.send(game);
+//     }
+// });
 
 var reviews = api.getAll();
 
